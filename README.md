@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img src = "https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
 
-    <img src = "https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"> 
+  <img src = "https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"> 
   <img src = "https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
   <img src = "https://img.shields.io/badge/DataBase-MongoDB-green?style=for-the-badge&logo=mongoDB&logoColor=white"> 
   <img src = "https://img.shields.io/badge/ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white">
