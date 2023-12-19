@@ -18,18 +18,23 @@ Here are some ideas to get you started:
 
 
 <div align="center">
+  🔭 I’m currently working on Kyonggi Univ. Security Engineering Lab.
+
+
 <h3 align="center">  Teck Stack </h3>
+
   
-  <span> <img src = "https://img.shields.io/badge/Java-007396?&logo=Java&logoColor=white"> 
-  <img src = "https://img.shields.io/badge/solidity-363636?&logo=solidity&logoColor=white"> 
-  <img src = "https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=white"> 
-  <img src = "https://img.shields.io/badge/DataBase-MongoDB-green?logo=mongoDB&logoColor=white"> 
-  <img src = "https://img.shields.io/badge/ethereum-3C3C3D?logo=ethereum&logoColor=white">
-  <img src = "https://img.shields.io/badge/amazonaws-232F3E?logo=amazonaws&logoColor=white">
-  <img src = "https://img.shields.io/badge/ipfs-65C2CB?logo=ipfs&logoColor=white">
+  <span>
+  <img src = "https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+
+    <img src = "https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"> 
+  <img src = "https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
+  <img src = "https://img.shields.io/badge/DataBase-MongoDB-green?style=for-the-badge&logo=mongoDB&logoColor=white"> 
+  <img src = "https://img.shields.io/badge/ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white">
+  <img src = "https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src = "https://img.shields.io/badge/ipfs-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white">
   
-<img src = "https://img.shields.io/badge/Kotlin-4A148C?logo=Kotlin&logoColor=7F52FF">
-<img src = "https://img.shields.io/badge/C++-blue?logo=c%2B%2B &logoColor=00599C"> 
 <h3 align="center"> 🐣 Contact Me 🐣 </h3>
 <p>
   <span><img src="https://img.shields.io/badge/paeter3@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/><span>
