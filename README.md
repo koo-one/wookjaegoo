@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img src = "https://img.shields.io/badge/DataBase-MongoDB-green?logo=mongoDB&logoColor=white"> 
   <img src = "https://shields.io/badge/ethereum-#3C3C3D?logo=ethereum&logoColor=white&style=flat">
   <img src = "https://shields.io/badge/amazonaws-#232F3E?logo=amazonaws&logoColor=white&style=flat">
-  <img src = "https://shields.io/badge/ipfs-#65C2CB?logo=ipfs&logoColor=white&style=flat">
+  <img src = "https://shields.io/badge/ipfs-#65C2CB?logo=ipfs&logoColor=FFFFFF&style=flat">
 
   <img src = "https://img.shields.io/badge/Architecture-MSA-red"> 
   <img src = "https://img.shields.io/badge/Architecture-DDD-7CB342"><span>
