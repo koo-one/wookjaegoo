@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 <h3 align="center">  Teck Stack </h3>
   
   <span> <img src = "https://img.shields.io/badge/Java-007396?&logo=Java&logoColor=white"> 
-  <img src = "https://img.shields.io/badge/solidity-#363636?&logo=solidity&logoColor=white"> 
-  <img src = "https://img.shields.io/badge/react-#61DAFB?logo=react&logoColor=white"> 
+  <img src = "https://img.shields.io/badge/solidity-363636?&logo=solidity&logoColor=white"> 
+  <img src = "https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=white"> 
   <img src = "https://img.shields.io/badge/DataBase-MongoDB-green?logo=mongoDB&logoColor=white"> 
-  <img src = "https://img.shields.io/badge/ethereum-#3C3C3D?logo=ethereum&logoColor=white">
-  <img src = "https://img.shields.io/badge/amazonaws-#232F3E?logo=amazonaws&logoColor=white">
-  <img src = "https://img.shields.io/badge/ipfs-#65C2CB?logo=ipfs&logoColor=white&style=flat">
+  <img src = "https://img.shields.io/badge/ethereum-3C3C3D?logo=ethereum&logoColor=white">
+  <img src = "https://img.shields.io/badge/amazonaws-232F3E?logo=amazonaws&logoColor=white">
+  <img src = "https://img.shields.io/badge/ipfs-65C2CB?logo=ipfs&logoColor=white&style=flat">
 
 <h3 align="center"> 🐣 Contact Me 🐣 </h3>
 <p>
