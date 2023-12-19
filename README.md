@@ -26,8 +26,10 @@ Here are some ideas to get you started:
   <img src = "https://img.shields.io/badge/DataBase-MongoDB-green?logo=mongoDB&logoColor=white"> 
   <img src = "https://img.shields.io/badge/ethereum-3C3C3D?logo=ethereum&logoColor=white">
   <img src = "https://img.shields.io/badge/amazonaws-232F3E?logo=amazonaws&logoColor=white">
-  <img src = "https://img.shields.io/badge/ipfs-65C2CB?logo=ipfs&logoColor=white&style=flat">
-
+  <img src = "https://img.shields.io/badge/ipfs-65C2CB?logo=ipfs&logoColor=white">
+  
+<img src = "https://img.shields.io/badge/Kotlin-4A148C?logo=Kotlin&logoColor=7F52FF">
+<img src = "https://img.shields.io/badge/C++-blue?logo=c%2B%2B &logoColor=00599C"> 
 <h3 align="center"> 🐣 Contact Me 🐣 </h3>
 <p>
   <span><a href="https://velog.io/@sweet_sumin" target="_blank"><img src="https://img.shields.io/badge/TechBlog-20C997?style=flat-square&logo=velog&logoColor=white"/></a><span>
