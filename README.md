@@ -37,10 +37,22 @@ Here are some ideas to get you started:
   
   <a href="#" target="_blank">  <img src = "https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"> </a>
   <a href="#" target="_blank">  <img src = "https://img.shields.io/badge/ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"> </a>
-  <a href="#" target="_blank">  <img src = "https://img.shields.io/badge/ipfs-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white"> </a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=FFFFFF"/></a>
 
   <br>
+
+### Tools 🛠
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF"/></a>
+
+
+ <a href="#" target="_blank">  <img src = "https://img.shields.io/badge/ipfs-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white"> </a>  
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=FFFFFF"/></a>
+
+  <br>
+  
   
 <h3 align="center"> 🐣 Contact Me 🐣 </h3>
 <p>
@@ -48,13 +60,5 @@ Here are some ideas to get you started:
  </p>
 </div>
     
-<h3 align="center">🌱 My Github 🌱</h3>
-  <!--<a href="https://github-readme-stats.vercel.app/api/top-langs/?sue4869=anuraghazra&layout=compact" target='_blank'>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=sue4869&show_icons=true&theme=radical&hide=issues&line_height=24&include_all_commits=True&hide_border=True" />
-   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target='_blank'>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sue4869&layout=compact&theme=radical&langs_count=6&hide_border=True&card_width=260" />
-    </a>-->
-  <a href="https://github.com/Platane/snk" target='_blank'>
-    <img align="center" src="https://github.com/sue4869/sue4869/blob/output/github-contribution-grid-snake.svg" />
-  </a>
+
+  
