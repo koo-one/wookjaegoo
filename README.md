@@ -25,17 +25,19 @@ Here are some ideas to get you started:
 
   
   <span>
-  <img src = "https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
+  <a href="#"  <img src = "https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">  </a>
+  <a href="#"  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/> </a>
+  <a href="#"  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/> </a>
 
-  <img src = "https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"> 
-  <img src = "https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
-  <img src = "https://img.shields.io/badge/DataBase-MongoDB-green?style=for-the-badge&logo=mongoDB&logoColor=white"> 
+  <a href="#"  <img src = "https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"> </a>
+  <a href="#"  <img src = "https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> </a>
+  <a href="#"  <img src = "https://img.shields.io/badge/DataBase-MongoDB-green?style=for-the-badge&logo=mongoDB&logoColor=white"> </a> 
   
-  <img src = "https://img.shields.io/badge/ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white">
-  <img src = "https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src = "https://img.shields.io/badge/ipfs-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white">
+  <a href="#"  <img src = "https://img.shields.io/badge/ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"> </a>
+  <a href="#"  <img src = "https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> </a>
+  <a href="#"  <img src = "https://img.shields.io/badge/ipfs-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white"> </a>
+  
+  <br>
   
 <h3 align="center"> 🐣 Contact Me 🐣 </h3>
 <p>
