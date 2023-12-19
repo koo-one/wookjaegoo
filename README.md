@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div align="center">
 <h3 align="center">  Teck Stack </h3>
   
-  <span> <img src = "https://img.shields.io/badge/Java-007396?&logo=java&logoColor=white"> 
+  <span> <img src = "https://img.shields.io/badge/Java-007396?&logo=Java&logoColor=white"> 
   <img src = "https://img.shields.io/badge/solidity-#363636?&logo=solidity&logoColor=white"> 
   <img src = "https://img.shields.io/badge/react-#61DAFB?logo=react&logoColor=white"> 
   <img src = "https://img.shields.io/badge/DataBase-MongoDB-green?logo=mongoDB&logoColor=white"> 
