@@ -20,8 +20,6 @@ Here are some ideas to get you started:
   🔭 I’m currently working on Kyonggi Univ. Security Engineering Lab.
 <h3 align="center">  Teck Stack </h3>
   <span>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/></a>
 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"></a>
